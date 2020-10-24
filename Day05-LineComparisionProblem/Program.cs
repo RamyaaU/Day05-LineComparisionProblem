@@ -6,7 +6,7 @@ namespace Day05_LineComparisionProblem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("!");
+            Console.WriteLine("Welcome to Line Comparision Problem!");
         }
     }
 }
